@@ -1,4 +1,4 @@
-# Nearbrary
+# [Nearbrary]
 ![image](https://user-images.githubusercontent.com/77449223/146312414-b16ae0b4-e0aa-4c0a-81fc-14f01cf041d6.png)
 ## 프로젝트 소개
 신촌지역 네 학교 (서강대, 연세대, 이화여대, 홍익대) 도서관의 소장 정보를 한 번에 검색할 수 있는 애플리케이션입니다.
@@ -31,3 +31,4 @@
 [Xcode]: https://img.shields.io/badge/Xcode-27A5F9?style=flat-square&logo=Xcode&logoColor=white
 [Python]: https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white
 [AWS]: https://img.shields.io/badge/AWS-F7981F?style=flat-square&logo=Amazon-AWS&logoColor=white
+[Nearbrary]: https://devjungwonlee.notion.site/Nearbrary-b4d1e8199d5f4c5eb413b21b54b40012
